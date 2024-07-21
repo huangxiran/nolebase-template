@@ -10,7 +10,7 @@ hero:
   text: 记录回忆，知识和畅想
   tagline: #记录生活--每一个不起舞的日子都是对生命的愧怍/同时在此感谢nolebase博客模板的作者们的付出
   image:
-    src: /sy.jpg
+    src: /sy.png
     alt: Vitest
   actions:
     - theme: brand
